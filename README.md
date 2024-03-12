@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @olii-dev
+### Hey There 👋
+I’m @olii-dev
 - 👀 I’m interested in Technology, Gaming
 - 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me N/A
+- 📫 How to reach me? Through my email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like apples 🍎 and Apple 
 
