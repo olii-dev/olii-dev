@@ -1,4 +1,4 @@
-![Header](./[banner.png])
+![Header](./banner.png)
 ### Hey There 👋
 I’m @olii-dev
 - 👀 I’m interested in Technology, Gaming
