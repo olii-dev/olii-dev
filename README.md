@@ -7,9 +7,13 @@ I’m @olii-dev
 - 📫 How to reach me? Through my email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like apples 🍎 and Apple 
-  
-<h1>
-This is what I am learning right now:
+---
+**Visitor Count on my profile:**
+
+![Visitor Count](https://profile-counter.glitch.me/olii-dev/count.svg)
+
+---
+# This is what I am learning right now:
 
 ![Swift](<https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white>)
 ![Xcode](<https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white>)
@@ -17,7 +21,8 @@ This is what I am learning right now:
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-  </h1>
+
+---
 
 # My stats
 
