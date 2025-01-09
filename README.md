@@ -2,7 +2,7 @@
   
   # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Tech+Explorer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Tech+Explorer)](https://git.io/typing-svg)
   
   [![Profile Views](https://komarev.com/ghpvc/?username=olii-dev&color=blue&style=flat-square)](https://github.com/olii-dev)
   [![GitHub followers](https://img.shields.io/github/followers/olii-dev?label=Follow&style=social)](https://github.com/olii-dev)
@@ -15,7 +15,7 @@
 
 Hi, I'm Oli! I'm passionate about creating cool solutions through code. When I'm not programming, you'll find me exploring new technologies, gaming, or probably thinking about coding again!
 
-- 🔭 Currently working on **perfecting my frontend development skills**
+- 🔭 Currently working on **perfecting my development skills**
 - 🌱 Learning **SwiftUI**, **CSS**, **HTML5** & **JavaScript**
 - 💬 Ask me about anything tech-related
 - 📫 Reach me at: [oli@mebberson.com](mailto:oli@mebberson.com)
@@ -65,8 +65,11 @@ Hi, I'm Oli! I'm passionate about creating cool solutions through code. When I'm
 ### Development Setup
 <div align="left">
   
-  ![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![Apple Music](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
   
 </div>
 
@@ -75,8 +78,6 @@ Hi, I'm Oli! I'm passionate about creating cool solutions through code. When I'm
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olii-dev&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=olii-dev&theme=blue-green&hide_border=true" />
-  
   <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olii-dev&theme=blue-green&show_icons=true&hide_border=true&layout=compact" />
   
 </div>
@@ -87,12 +88,6 @@ Hi, I'm Oli! I'm passionate about creating cool solutions through code. When I'm
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=olii-dev&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?border=true&type=horizontal&theme=radical" />
 </div>
 
 ---
