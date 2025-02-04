@@ -11,11 +11,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM4Z2pwZnhiYjB2NHcyOW02NmF5ZnQ2NnBtcWR6NHZ0ZHV6YmptdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+Hi, I'm Oli! I'm love to create cool solutions through code. When I'm not programming, you'll find me exploring new technologies, gaming, or probably thinking about coding again!
 
-Hi, I'm Oli! I'm passionate about creating cool solutions through code. When I'm not programming, you'll find me exploring new technologies, gaming, or probably thinking about coding again!
-
-- 🔭 Currently working on **perfecting my development skills**
+- 🔭 Currently working on **[infoverse](https://olii-dev.github.io/infoverse/)**
 - 🌱 Learning **SwiftUI**, **CSS**, **HTML5** & **JavaScript**
 - 💬 Ask me about anything tech-related
 - 📫 Reach me at: [oli@mebberson.com](mailto:oli@mebberson.com)
@@ -30,7 +28,7 @@ Hi, I'm Oli! I'm passionate about creating cool solutions through code. When I'm
   <a href="mailto:oli@mebberson.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://olii-dev.github.io/aboutme/">
+  <a href="https://olii-dev.github.io/oli-mebberson.dev/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://olii-dev.github.io/terminal-portfolio/">
