@@ -14,11 +14,11 @@
 Hey there, I'm Oli! I love to create cool stuff through code. When I'm not programming, I'll probably be exploring new technologies, gaming, or probably thinking about coding again!
 
 - 🔭 Currently working on **[Stratus](olii-dev.github.io/stratus-web/)**
-- 🌱 Learning **SwiftUI**, **CSS**, **HTML5** & **JavaScript**
+- 🌱 Learning **SwiftUI** & **JavaScript**
 - 💬 Ask me about anything tech-related
 - 📫 Reach me at: [oli@mebberson.com](mailto:oli@mebberson.com)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm a fan of both apples 🍎 and Apple tech!
+- ⚡ Fun fact: The Internet weighs as much as a Strawberry! 🍓
 
 <br>
 
@@ -28,7 +28,7 @@ Hey there, I'm Oli! I love to create cool stuff through code. When I'm not progr
   <a href="mailto:oli@mebberson.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://olii-dev.github.io/oli-mebberson.dev/">
+  <a href="https://oli-mebberson.is-cool.dev">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://olii-dev.github.io/terminal-portfolio/">
@@ -75,9 +75,15 @@ Hey there, I'm Oli! I love to create cool stuff through code. When I'm not progr
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olii-dev&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
-  <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olii-dev&theme=blue-green&show_icons=true&hide_border=true&layout=compact" />
+![Stats](https://github-readme-stats.vercel.app/api?username=olii-dev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![Stats1](https://streak-stats.demolab.com/?user=olii-dev&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
   
+</div>
+
+<div>
+  
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=olii-dev&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
 </div>
 
 ## 🏆 GitHub Trophies
