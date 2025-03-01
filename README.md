@@ -11,9 +11,9 @@
 
 ## 👨‍💻 About Me
 
-Hey there, I'm Oli! I love to create cool stuff through code. When I'm not programming, I'll probably be exploring new technologies, gaming, or probably thinking about coding again!
+Hey there, I'm Oli! I love to create cool stuff through code. When I'm not programming, I'll probably be exploring new technologies, gaming, or (most likely) thinking about coding again!
 
-- 🔭 Currently working on **[Stratus](olii-dev.github.io/stratus-web/)**
+- 🔭 Currently working on **[Stratus](olii-dev.github.io/stratus-web/)**, **[infoverse](olii-dev.github.io/infoverse)** and **more!**
 - 🌱 Learning **SwiftUI** & **JavaScript**
 - 💬 Ask me about anything tech-related
 - 📫 Reach me at: [oli@mebberson.com](mailto:oli@mebberson.com)
@@ -71,7 +71,7 @@ Hey there, I'm Oli! I love to create cool stuff through code. When I'm not progr
   
 </div>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   
@@ -86,7 +86,7 @@ Hey there, I'm Oli! I love to create cool stuff through code. When I'm not progr
 
 </div>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
   
