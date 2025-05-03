@@ -11,11 +11,11 @@
 
 ## 👨‍💻 About Me
 
-Hey there, I'm Oli! I love to create cool stuff through code. When I'm not programming, I'll probably be exploring new technologies, gaming, or (most likely) thinking about coding again!
+Hey, I'm Oli! I love to create things with code. When I'm not programming, I'll probably be exploring new technologies, gaming, or (most likely) thinking about coding again!
 
-- 🔭 Currently working on **[Stratus](olii-dev.github.io/stratus-web/)**, **[infoverse](olii-dev.github.io/infoverse)** and **more!**
-- 🌱 Learning **SwiftUI** & **JavaScript**
-- 💬 Ask me about anything tech-related
+- 🔭 Currently working on **[quip](https://olii-dev.github.io/quip/)**, a GUI for OpenRouter (you can chat to AI's for free!).
+- 🌱 Learning that not everything just works. 😭
+- 💬 Ask me about anything...
 - 📫 Reach me at: [oli@mebberson.com](mailto:oli@mebberson.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: The Internet weighs as much as a Strawberry! 🍓
@@ -30,9 +30,6 @@ Hey there, I'm Oli! I love to create cool stuff through code. When I'm not progr
   </a>
   <a href="https://oli-mebberson.is-cool.dev">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://olii-dev.github.io/terminal-portfolio/">
-    <img src="https://img.shields.io/badge/Terminal_Portfolio-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Terminal Portfolio"/>
   </a>
 </div>
 
@@ -97,7 +94,7 @@ Hey there, I'm Oli! I love to create cool stuff through code. When I'm not progr
 ---
 
 <div align="center">
-  Thanks for visiting! Don't forget to ⭐️ some repositories if you find them interesting! :)
+  Thanks for checking out my profile! Don't forget to ⭐️ some repositories if you find them interesting! :) Have a great day.
 </div>
 
 <!---
