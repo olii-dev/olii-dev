@@ -1,28 +1,86 @@
 <div align="center">
   
-  # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  ![Banner](banner.png)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Tech+Explorer)](https://git.io/typing-svg)
+  # Oli Mebberson
+  **Frontend Developer & Technology Enthusiast**
   
   [![Profile Views](https://komarev.com/ghpvc/?username=olii-dev&color=blue&style=flat-square)](https://github.com/olii-dev)
   [![GitHub followers](https://img.shields.io/github/followers/olii-dev?label=Follow&style=social)](https://github.com/olii-dev)
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
-Hey, I'm Oli! I love to create things with code. When I'm not programming, I'll probably be exploring new technologies, gaming, or (most likely) thinking about coding again!
+I'm a passionate frontend developer who enjoys building engaging web experiences and exploring emerging technologies. My approach combines creative problem-solving with technical precision to deliver impactful digital solutions.
 
-- 🔭 Currently working on **[quip](https://olii-dev.github.io/quip/)**, a GUI for OpenRouter (you can chat to AI's for free!).
-- 🌱 Learning that not everything just works. 😭
-- 💬 Ask me about anything...
-- 📫 Reach me at: [oli@mebberson.com](mailto:oli@mebberson.com)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: The Internet weighs as much as a Strawberry! 🍓
+**Current Focus:**
+- 🚀 Developing **[quip](https://olii-dev.github.io/quip/)** - A GUI interface for OpenRouter providing free AI chat capabilities
+- 📚 Expanding expertise in mobile development with Swift and iOS technologies  
+- 🌐 Exploring modern deployment platforms and cloud technologies
+- 💡 Contributing to open-source projects and the developer community
+
+**Professional Interests:**
+- Frontend architecture and user experience design
+- Modern JavaScript frameworks and development tools
+- Cross-platform development solutions
+- AI integration in web applications
+
+📧 **Contact:** [oli@mebberson.com](mailto:oli@mebberson.com)  
+🌐 **Portfolio:** [oli-mebberson.is-cool.dev](https://oli-mebberson.is-cool.dev)
 
 <br>
 
-## 🔗 Connect With Me
+## Featured Projects
+
+### 🤖 [Quip](https://olii-dev.github.io/quip/)
+A modern GUI interface for OpenRouter that provides free access to AI chat capabilities. Built with a focus on user experience and accessibility, Quip demonstrates my ability to integrate cutting-edge AI technologies with intuitive frontend design.
+
+**Key Features:**
+- Clean, responsive user interface
+- Free AI chat functionality through OpenRouter integration
+- Modern web technologies implementation
+
+## Technical Expertise
+
+### Core Technologies
+<div align="left">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+  
+</div>
+
+### Development Tools & Platforms
+<div align="left">
+  
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  
+</div>
+
+### Currently Learning
+<div align="left">
+  
+  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
+  ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+  
+</div>
+
+### Development Environment
+<div align="left">
+  
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+  
+</div>
+
+## Connect With Me
 
 <div align="left">
   <a href="mailto:oli@mebberson.com">
@@ -33,68 +91,40 @@ Hey, I'm Oli! I love to create things with code. When I'm not programming, I'll 
   </a>
 </div>
 
-## 🛠️ Tech Stack
-
-### Current Skills
-<div align="left">
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  
-</div>
-
-### Currently Learning
-<div align="left">
-  
-  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
-  ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-  
-</div>
-
-### Development Setup
-<div align="left">
-  
-  ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-  ![Apple Music](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-
-  
-</div>
-
-### 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=olii-dev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![Stats1](https://streak-stats.demolab.com/?user=olii-dev&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olii-dev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=olii-dev&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
   
 </div>
-
-<div>
-  
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=olii-dev&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
-
-</div>
-
-### 🏆 GitHub Trophies
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=olii-dev&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=olii-dev&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+</div>
+
+### Achievements
+
+<div align="center">
+  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=olii-dev&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
 ---
 
 <div align="center">
-  Thanks for checking out my profile! Don't forget to ⭐️ some repositories if you find them interesting! :) Have a great day.
+  
+**Thank you for visiting my profile!** 
+
+Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities or technical discussions.
+  
+⭐️ *Consider starring repositories that interest you* ⭐️
+  
 </div>
 
 <!---
