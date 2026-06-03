@@ -1,22 +1,22 @@
-# Hey, I'm olii-dev 👋
+# Hey, I'm Oli 👋
 
-Welcome to my lil corner on GitHub!
+Welcome to my lil space on GitHub!
 
 ## 😎 About Me
 
-- 💻 I like building cool stuff with code.
-- 🌱 Always learning something new (and probably breaking stuff along the way).
+- 💻 I like building useful stuff with code.
+- 🌱 I am always learning something new (and probably breaking stuff too 😅).
 - 🤝 Down to collaborate on interesting projects or ideas.
 
-## 📊 GitHub Stats
+## 📊 Hackatime Stats
 
-![olii-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=olii-dev&show_icons=true&theme=tokyonight)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=6355&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-## 🌐 Let's Connect
+## 🌐 Connect with me
 
 - [Website](https://oli-mebberson.is-cool.dev/)
-- [Email](oli@mebberson.com)
+- [Email](mailto:oli@mebberson.com)
 
 ---
 
-Thanks for dropping by! If you like what you see, maybe hit that follow button or just say hey 🤙
+Thanks for dropping by! 🤙
